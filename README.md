@@ -88,11 +88,10 @@ Deploy, nuvem e DevOps
 
 <div align="center">
 
-| Integrante | Função | GitHub |
-|:---:|:---:|:---:|
-| *em breve* | *em breve* | *em breve* |
-
-*Time sendo formado — perfis serão adicionados em breve.*
+| Integrante | GitHub |
+|:---:|:---:|
+| Claudemir Avelino | [@claudemirmarcelino](https://github.com/claudemirmarcelino) |
+| Giuseph Giangareli | [@Giuseph66](https://github.com/Giuseph66) |
 
 </div>
 
