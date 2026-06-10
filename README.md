@@ -118,12 +118,6 @@ Desenvolvimento do site oficial da faculdade FastTech.
 </tr>
 </table>
 
-<div align="center">
-
-*Mais cases da Optimum Solutions em breve.*
-
-</div>
-
 <br/>
 
 ## ▌ Contato
