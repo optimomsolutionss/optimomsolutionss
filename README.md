@@ -22,8 +22,6 @@ A **Optimum Solutions** é a empresa júnior de tecnologia da **Fastech**, criad
 
 > Conectamos times acadêmicos a problemas reais, entregando software sob medida — com processo, qualidade e o ritmo de uma startup.
 
-Estamos no **dia zero**. Repositórios, projetos e equipe vão crescer aqui — acompanhe.
-
 <br/>
 
 ## ▌ Pilares
@@ -102,11 +100,27 @@ Deploy, nuvem e DevOps
 
 ## ▌ Projetos
 
+<table>
+<tr>
+<td width="30%" align="center">
+
+### 🌐
+**Site institucional FastTech**
+
+</td>
+<td>
+
+Desenvolvimento do site oficial da faculdade FastTech.
+
+[![Acessar site](https://img.shields.io/badge/Acessar-fastech.edu.br-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fastech.edu.br/)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-🚧 **Nenhum projeto público ainda — somos uma EJ recém-fundada.**
-
-Os primeiros cases da Optimum Solutions aparecerão aqui assim que decolarem.
+*Mais cases da Optimum Solutions em breve.*
 
 </div>
 
@@ -117,7 +131,7 @@ Os primeiros cases da Optimum Solutions aparecerão aqui assim que decolarem.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-optimomsolutionss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/optimomsolutionss)
-![Fastech](https://img.shields.io/badge/Faculdade-Fastech-00C9A7?style=for-the-badge&logo=googlescholar&logoColor=white)
+[![Fastech](https://img.shields.io/badge/Faculdade-Fastech-00C9A7?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.fastech.edu.br/)
 
 </div>
 
