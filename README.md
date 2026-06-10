@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=OPTIMUM%20SOLUTIONS&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Empresa%20J%C3%BAnior%20%E2%80%A2%20Faculdade%20FastTech&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=OPTIMUM%20SOLUTIONS&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Empresa%20J%C3%BAnior%20%E2%80%A2%20Faculdade%20Fastech&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=620&lines=Transformando+ideias+em+software+real;Aprendendo+fazendo%2C+entregando+com+qualidade;C%C3%B3digo+%2B+caf%C3%A9+%2B+FastTech;O+come%C3%A7o+de+algo+grande+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=620&lines=Transformando+ideias+em+software+real;Aprendendo+fazendo%2C+entregando+com+qualidade;C%C3%B3digo+%2B+caf%C3%A9+%2B+Fastech;O+come%C3%A7o+de+algo+grande+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 ![Status](https://img.shields.io/badge/STATUS-EM%20FORMA%C3%87%C3%83O-00C9A7?style=for-the-badge&labelColor=0F2027)
-![Faculdade](https://img.shields.io/badge/FACULDADE-FastTech-2C5364?style=for-the-badge&labelColor=0F2027)
+![Faculdade](https://img.shields.io/badge/FACULDADE-Fastech-2C5364?style=for-the-badge&labelColor=0F2027)
 ![Foco](https://img.shields.io/badge/FOCO-SOLU%C3%87%C3%95ES%20INTELIGENTES-00C9A7?style=for-the-badge&labelColor=0F2027)
 
 </div>
@@ -18,7 +18,7 @@
 
 ## ▌ Quem somos
 
-A **Optimum Solutions** é a empresa júnior de tecnologia da **FastTech**, criada por estudantes que querem sair da teoria e construir produto de verdade.
+A **Optimum Solutions** é a empresa júnior de tecnologia da **Fastech**, criada por estudantes que querem sair da teoria e construir produto de verdade.
 
 > Conectamos times acadêmicos a problemas reais, entregando software sob medida — com processo, qualidade e o ritmo de uma startup.
 
@@ -117,7 +117,7 @@ Os primeiros cases da Optimum Solutions aparecerão aqui assim que decolarem.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-optimomsolutionss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/optimomsolutionss)
-![FastTech](https://img.shields.io/badge/Faculdade-FastTech-00C9A7?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Fastech](https://img.shields.io/badge/Faculdade-Fastech-00C9A7?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 </div>
 
@@ -126,5 +126,5 @@ Os primeiros cases da Optimum Solutions aparecerão aqui assim que decolarem.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer"/>
 
 <div align="center">
-<sub>Feito pela equipe <b>Optimum Solutions</b> — FastTech</sub>
+<sub>Feito pela equipe <b>Optimum Solutions</b> — Fastech</sub>
 </div>
