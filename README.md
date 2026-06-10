@@ -88,10 +88,28 @@ Deploy, nuvem e DevOps
 
 <div align="center">
 
-| Integrante | GitHub |
-|:---:|:---:|
-| Claudemir Avelino | [@claudemirmarcelino](https://github.com/claudemirmarcelino) |
-| Giuseph Giangareli | [@Giuseph66](https://github.com/Giuseph66) |
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/claudemirmarcelino">
+<img src="https://github.com/claudemirmarcelino.png" width="110" style="border-radius:50%"/>
+<br/><b>Claudemir Avelino</b>
+</a>
+<br/>
+<a href="https://github.com/claudemirmarcelino"><img src="https://img.shields.io/badge/-@claudemirmarcelino-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Giuseph66">
+<img src="https://github.com/Giuseph66.png" width="110" style="border-radius:50%"/>
+<br/><b>Giuseph Giangareli</b>
+</a>
+<br/>
+<a href="https://github.com/Giuseph66"><img src="https://img.shields.io/badge/-@Giuseph66-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+</table>
+
+<sub>Time em formação — novos integrantes serão adicionados aqui.</sub>
 
 </div>
 
