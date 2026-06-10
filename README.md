@@ -92,7 +92,7 @@ Deploy, nuvem e DevOps
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/claudemirmarcelino">
-<img src="https://github.com/claudemirmarcelino.png" width="110" style="border-radius:50%"/>
+<img src="https://wsrv.nl/?url=github.com/claudemirmarcelino.png&w=110&h=110&mask=circle&fit=cover" width="110"/>
 <br/><b>Claudemir Avelino</b>
 </a>
 <br/>
@@ -100,7 +100,7 @@ Deploy, nuvem e DevOps
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/Giuseph66">
-<img src="https://github.com/Giuseph66.png" width="110" style="border-radius:50%"/>
+<img src="https://wsrv.nl/?url=github.com/Giuseph66.png&w=110&h=110&mask=circle&fit=cover" width="110"/>
 <br/><b>Giuseph Giangareli</b>
 </a>
 <br/>
