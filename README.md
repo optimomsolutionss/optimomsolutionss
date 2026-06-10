@@ -104,7 +104,8 @@ Deploy, nuvem e DevOps
 <tr>
 <td width="30%" align="center">
 
-### 🌐
+<img src="./carcara-orange.svg" width="56" height="56" alt="Optimum Solutions"/>
+
 **Site institucional FastTech**
 
 </td>
